@@ -1,7 +1,6 @@
 # nodejs
 
 ====================
-#web
 ##简介
 该程序为简易网站服务器。
   |langguage|javascript|
